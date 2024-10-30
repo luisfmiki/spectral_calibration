@@ -1,1 +1,5 @@
+*.user
+build/
 .user
+.txt.user
+*.txt.user

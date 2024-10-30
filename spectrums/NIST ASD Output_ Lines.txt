@@ -1,0 +1,200 @@
+[skip navigation] <#start>
+[ASD Home] <https://physics.nist.gov/PhysRefData/ASD/index.html>[Lines
+Query] <https://physics.nist.gov/PhysRefData/ASD/lines_form.html>[Levels
+Query] <https://physics.nist.gov/PhysRefData/ASD/levels_form.html>[List
+of Spectra] <https://www.nist.gov/pml/atomic-spectra-database-
+contents>[Ground States and Ionization Energies] <https://
+physics.nist.gov/PhysRefData/ASD/ionEnergy.html>[Bibliography] <https://
+physics.nist.gov/PhysRefData/ASBib1/index.html>[Help] <https://
+physics.nist.gov/PhysRefData/ASD/Html/help.html> 	NIST Physical
+Measurement Laboratory
+
+NIST Atomic Spectra Database Lines Data
+
+_Ne (all spectra), Ar (all spectra)_: 118 Lines of Data Found 
+
+	
+*Example of how to reference these results:*
+Kramida, A., Ralchenko, Yu., Reader, J., and NIST ASD Team (2023). /NIST
+Atomic Spectra Database/ (ver. 5.11), [Online]. Available: https://
+physics.nist.gov/asd [2024, October 30]. National Institute of Standards
+and Technology, Gaithersburg, MD. DOI: https://doi.org/10.18434/T4W30F
+BibTex Citation <javascript:void(0)> (new window)
+ 
+*_Wavelength range_: 580 - 650 nm
+_/?/ in_: vacuum below 200 nm, air between 200 and 2000 nm, vacuum above
+2000 nm
+_Highest relative intensity_: 20000*
+
+Query NIST Bibliographic Databases for
+*Ne;ar * (new window)
+
+Ne;ar Energy Levels <javascript:void(0)>
+Ne;ar Line Wavelengths and Classification <javascript:void(0)>
+Ne;ar Transition Probabilities <javascript:void(0)>
+
+------------------------------------------------------------------------
+
+----------------------------------------------------------
+Spectrum  |      Observed      |     Aki     | Acc. |Type|
+          |     Wavelength     |   (s^-1)    |      |    |
+          |      Air (nm)      |             |      |    |
+----------------------------------------------------------
+          |                    |             |      |    |
+Ne I      |         580.40900  | 1.88e+05    | C+   |    |
+Ne I      |         580.44496  | 3.60e+06    | C+   |    |
+Ne I      |         581.14066  | 7.37e+05    | C+   |    |
+Ne I      |         581.66219  | 1.73e+05    | C    |    |
+Ne I      |         582.01558  | 8.60e+06    | C+   |    |
+          |                    |             |      |    |
+Ne I      |         582.89063  | 2.87e+05    | C    |    |
+Ar I      |         583.4263   | 5.2e+05     | C    |    |
+Ne I      |         585.24878  | 6.15e+07    | AA   |    |
+Ar I      |         586.0310   | 2.85e+05    | C    |    |
+Ne I      |         586.84165  | 8.26e+05    | C+   |    |
+          |                    |             |      |    |
+Ne I      |         587.21450  | 6.69e+05    | C+   |    |
+Ne I      |         587.28275  | 6.07e+06    | C+   |    |
+Ne I      |         588.18950  | 1.15e+07    | B+   |    |
+Ar I      |         588.2624   | 1.23e+06    | C    |    |
+Ar I      |         588.8584   | 1.29e+06    | C    |    |
+          |                    |             |      |    |
+Ne I      |         589.83287  | 2.01e+05    | C    |    |
+Ne I      |         590.20944  | 7.35e+05    | C+   |    |
+Ne I      |         590.24623  | 8.56e+06    | C+   |    |
+Ne I      |         590.27835  | 1.25e+06    | C+   |    |
+Ne I      |         590.64294  | 4.51e+06    | C+   |    |
+          |                    |             |      |    |
+Ar I      |         591.2085   | 1.05e+06    | C    |    |
+Ne I      |         591.36330  | 3.19e+06    | C+   |    |
+Ne I      |         591.89068  | 2.97e+06    | C+   |    |
+Ne I      |         591.90290  | 4.15e+05    | C+   |    |
+Ar I      |         592.8813   | 1.1e+06     | D+   |    |
+          |                    |             |      |    |
+Ne I      |         593.44522  | 1.08e+06    | C+   |    |
+Ne I      |         593.93154  | 2.00e+05    | B+   |    |
+Ar I      |         594.2669   | 1.8e+05     | D    |    |
+Ne I      |         594.48340  | 1.13e+07    | B+   |    |
+Ne I      |         596.16228  | 2.28e+06    | C+   |    |
+          |                    |             |      |    |
+Ne I      |         596.54710  | 6.41e+06    | C+   |    |
+Ne I      |         596.61790  | 2.42e+05    | C+   |    |
+Ne I      |         597.46273  | 6.06e+06    | C+   |    |
+Ne I      |         597.55343  | 3.51e+06    | B+   |    |
+Ar I      |         598.7302   | 1.2e+05     | D    |    |
+          |                    |             |      |    |
+Ne I      |         598.79074  | 3.63e+06    | C+   |    |
+Ne I      |         599.16477  | 1.18e+06    | C+   |    |
+Ar I      |         599.8999   | 1.4e+05     | D    |    |
+Ne I      |         600.09275  | 1.14e+06    | C+   |    |
+Ar I      |         602.5150   | 9.0e+05     | D+   |    |
+          |                    |             |      |    |
+Ne I      |         602.99968  | 5.61e+06    | B+   |    |
+Ar I      |         603.2127   | 2.46e+06    | C    |    |
+Ne I      |         604.2013   | 1.56e+05    | C    |    |
+Ar I      |         604.3223   | 1.47e+06    | C    |    |
+Ne I      |         604.61348  | 2.26e+05    | B+   |    |
+          |                    |             |      |    |
+Ar I      |         605.2723   | 1.9e+05     | D+   |    |
+Ar I      |         605.9372   | 4.2e+05     | C    |    |
+Ne I      |         606.45359  | 1.64e+06    | B+   |    |
+Ne I      |         607.43376  | 6.03e+07    | B+   |    |
+Ar II     |         607.7431   | 4.e+05      | C    |    |
+          |                    |             |      |    |
+Ne I      |         609.61630  | 1.81e+07    | B+   |    |
+Ar I      |         609.8803   | 5.2e+05     | D+   |    |
+Ar II     |         610.35397  | 1.7e+06     | C    |    |
+Ar I      |         610.5635   | 1.21e+06    | C    |    |
+Ar II     |         611.49232  | 2.00e+07    | B+   |    |
+          |                    |             |      |    |
+Ne I      |         611.80187  | 6.09e+05    | B+   |    |
+Ar II     |         611.8724   | 1.e+05      | E    |    |
+Ar II     |         612.33609  | 9.e+05      | C+   |    |
+Ne I      |         612.84498  | 6.70e+05    | B+   |    |
+Ar II     |         613.86551  | 1.2e+06     | B    |    |
+          |                    |             |      |    |
+Ne I      |         614.2508   | 1.64e+06    | C+   |    |
+Ne I      |         614.30627  | 2.82e+07    | B+   |    |
+Ar I      |         614.5441   | 7.6e+05     | C    |    |
+Ne I      |         615.02985  | 1.33e+06    | C+   |    |
+Ne I      |         615.61380  | 1.72e+05    | C    |    |
+          |                    |             |      |    |
+Ne I      |         616.35937  | 1.46e+07    | B+   |    |
+Ar I      |         617.0174   | 5.0e+05     | C    |    |
+Ar II     |         617.22775  | 2.00e+07    | A    |    |
+Ne I      |         617.28156  | 4.27e+05    | C    |    |
+Ar I      |         617.3096   | 6.7e+05     | C    |    |
+          |                    |             |      |    |
+Ne I      |         617.48829  | 7.52e+05    | C+   |    |
+Ne I      |         617.52842  | 3.00e+05    | C+   |    |
+Ne I      |         618.21460  | 3.72e+06    | B+   |    |
+Ne I      |         618.31575  | 1.18e+05    | C    |    |
+Ne I      |         618.90649  | 5.88e+05    | C+   |    |
+          |                    |             |      |    |
+Ne I      |         619.30663  | 1.80e+05    | C+   |    |
+Ne I      |         620.29740  | 2.44e+05    | C    |    |
+Ne I      |         620.57775  | 1.52e+06    | C+   |    |
+Ne III    |         620.908    | 4.0e+07     | D    |    |
+Ne III    |         621.018    | 2.5e+07     | D    |    |
+          |                    |             |      |    |
+Ar I      |         621.2503   | 3.9e+05     | D+   |    |
+Ne I      |         621.38758  | 2.85e+06    | B+   |    |
+Ar I      |         621.5938   | 5.7e+05     | D+   |    |
+Ne I      |         621.72812  | 6.37e+06    | B+   |    |
+Ne I      |         622.57350  | 6.19e+05    | C+   |    |
+          |                    |             |      |    |
+Ar II     |         623.97120  | 2.e+05      | D    |    |
+Ar II     |         624.31199  | 3.0e+06     | B    |    |
+Ne I      |         624.67294  | 7.97e+05    | B+   |    |
+Ne I      |         625.87884  | 6.06e+05    | C+   |    |
+Ne I      |         626.64952  | 2.49e+07    | B+   |    |
+          |                    |             |      |    |
+Ne I      |         627.30141  | 9.94e+05    | C+   |    |
+Ne I      |         627.60327  | 1.25e+06    | C+   |    |
+Ne III    |         627.750    | 1.1e+08     | D    |    |
+Ne III    |         628.358    | 1.1e+08     | D    |    |
+Ne III    |         628.959    | 1.2e+08     | D    |    |
+          |                    |             |      |    |
+Ne I      |         629.37447  | 6.39e+05    | B+   |    |
+Ar I      |         629.6872   | 9.0e+05     | D+   |    |
+Ne I      |         630.47893  | 4.16e+06    | B+   |    |
+Ar I      |         630.7657   | 6.0e+05     | D+   |    |
+Ne I      |         631.36855  | 3.40e+06    | B+   |    |
+          |                    |             |      |    |
+Ne I      |         632.81646  | 3.39e+06    | B+   |    |
+Ne I      |         633.08894  | 1.46e+06    | B+   |    |
+Ne I      |         633.44276  | 1.61e+07    | B+   |    |
+Ne I      |         635.18532  | 3.45e+05    | B+   |    |
+Ne I      |         636.49963  | 1.60e+05    | B+   |    |
+          |                    |             |      |    |
+Ar I      |         636.9575   | 4.2e+05     | D+   |    |
+Ne I      |         638.29914  | 3.21e+07    | B+   |    |
+Ar I      |         638.4717   | 4.21e+05    | C    |    |
+Ar II     |         639.92085  | 6.e+05      | C    |    |
+Ne I      |         640.1076   | 1.39e+06    | B+   |    |
+          |                    |             |      |    |
+Ne I      |         640.22480  | 5.149e+07   | AAA  |    |
+Ne III    |         640.658    | 5.6e+07     | D    |    |
+Ne I      |         640.97469  | 1.41e+06    | B+   |    |
+Ar I      |         641.6307   | 1.16e+06    | C    |    |
+Ne I      |         642.17044  | 2.10e+06    | B+   |    |
+          |                    |             |      |    |
+Ar II     |         643.76013  | 2.e+05      | E    |    |
+Ne I      |         644.47118  | 1.16e+06    | B+   |    |
+Ar II     |         648.30825  | 1.06e+07    | C+   |    |
+----------------------------------------------------------
+
+If you did not find the data you need, please inform the ASD Team
+<mailto:alexander.kramida@nist.gov?
+subject=Missing%20data%20in%20ASD&body=Ne;Ar%20lines>.
+
+[ASD Home] <https://physics.nist.gov/PhysRefData/ASD/index.html>[Lines
+Query] <https://physics.nist.gov/PhysRefData/ASD/lines_form.html>[Levels
+Query] <https://physics.nist.gov/PhysRefData/ASD/levels_form.html>[List
+of Spectra] <https://www.nist.gov/pml/atomic-spectra-database-
+contents>[Ground States and Ionization Energies] <https://
+physics.nist.gov/PhysRefData/ASD/ionEnergy.html>[Bibliography] <https://
+physics.nist.gov/PhysRefData/ASBib1/index.html>[Help] <https://
+physics.nist.gov/PhysRefData/ASD/Html/help.html> 	NIST Physical
+Measurement Laboratory
+
